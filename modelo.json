@@ -1,0 +1,14 @@
+{
+    "token":"5c8114f99a1f3bd3786700c0eb85ea10",
+    "issuer_id":"12347",
+    "payment_method_id":"master",
+    "transaction_amount":60,
+    "installments":1,
+    "payer":{
+        "email":"myemail@gmail.com",
+        "identification":{
+            "type":"DNI",
+            "number":"12345678"
+        }
+    }
+}

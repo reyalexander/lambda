@@ -1,0 +1,1 @@
+https://xpp8fhebgd.execute-api.us-east-1.amazonaws.com/default/mercadopago_payment
